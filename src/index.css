@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Lobster&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@theme {
+  --font-font1: 'Merriweather', serif;
+  --font-font2: 'Playfair Display', serif;
+  --font-font3: 'Merriweather', serif;
+  --font-font4: 'Black Ops One', sans-serif;
+  --font-font5: 'Lobster', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
