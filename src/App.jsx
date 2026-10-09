@@ -2,7 +2,6 @@ import { Navigate, Routes, Route } from 'react-router-dom';
 import { useEffect } from 'react';
 
 import Course from './Pages/CoursePage/Course';
-import Blog from './Pages/Blogpage/Blog';
 import Bootcamp from './Pages/BootcampPage/Bootcamp';
 
 import Nav from './Heropage/section1/Nav';
